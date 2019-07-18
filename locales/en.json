@@ -126,5 +126,19 @@
   "Version": "Version",
   "View All": "View All",
   "Wallet": "Wallet",
-  "ZooBC Blockchain": "ZooBC Blockchain"
+  "ZooBC Blockchain": "ZooBC Blockchain",
+  "Wallets": "Wallets",
+  "Scan": "Scan",
+  "Clear": "Clear",
+  "Settings": "Settings",
+  "Language": "Language",
+  "From": "From",
+  "Scan QR Code": "Scan QR Code",
+  "You can scan Spinechain addresses, payment requests, papper wallets, and more.": "You can scan Spinechain addresses, payment requests, papper wallets, and more.",
+  "Recieve": "Recieve",
+  "My Wallet Address": "My Wallet Address",
+  "Welcome": "Welcome",
+  "Send & Request": "Send & Request",
+  "Request Money": "Request Money",
+  "Time": "Time"
 }

@@ -126,5 +126,19 @@
   "Version": "Versi",
   "View All": "Semua",
   "Wallet": "Dompet",
-  "ZooBC Blockchain": "ZooBC Blockchain"
+  "ZooBC Blockchain": "ZooBC Blockchain",
+  "Wallets": "Dompet",
+  "Scan": "Pindai",
+  "Clear": "Hapus",
+  "Settings": "Pengaturan",
+  "Language": "Bahasa",
+  "From": "Dari",
+  "Scan QR Code": "Pindai QR Code",
+  "You can scan Spinechain addresses, payment requests, papper wallets, and more.": "Anda dapat memindai alamat SpainChain, permintaan pembayaran, dompet kertas, dan lainnya.",
+  "Recieve": "Terima",
+  "My Wallet Address": "Alamat Dompet Saya",
+  "Welcome": "Selamat Datang",
+  "Send & Request": "Kirim & Permintaan",
+  "Request Money": "Permintaan Koin",
+  "Time": "Waktu"
 }
