@@ -21,6 +21,7 @@
   "Type": "Tipe",
   "Account": "Akun",
   "Fee": "Biaya",
+  "Fee is required":"Biaya harus diisi",
   "Receive Money": "Terima Uang",
   "Transaction History": "Riwayat Transaksi",
   "Receive": "Minta",
