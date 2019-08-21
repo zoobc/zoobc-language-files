@@ -194,5 +194,12 @@
   "Welcome": "Welcome",
   "Send & Request": "Send & Request",
   "Request Money": "Request Money",
-  "Time": "Time"
+  "Time": "Time",
+  "Deposit": "Deposit",
+  "Create Wallet": "Create Wallet",
+  "Confirm Your Passphrase": "Confirm Your Passphrase",
+  "Please fill all of the passphrase": "Please fill all of the passphrase",
+  "Confirm": "Confirm",
+  "Email": "Email",
+  "Send me a copy of this message": "Send me a copy of this message"
 }

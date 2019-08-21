@@ -194,5 +194,14 @@
   "Welcome": "أهلا وسهلا",
   "Send & Request": "ارسل طلب",
   "Request Money": "طلب المال",
-  "Time": "وقت"
+  "Time": "وقت",
+  "Deposit": "الوديعة",
+  "Restore another wallet": "Restore another wallet",
+  "Create Wallet": "Create Wallet",
+  "Confirm Your Passphrase": "Confirm Your Passphrase",
+  "Please fill all of the passphrase": "Please fill all of the passphrase",
+  "The passphrase is not matched": "The passphrase is not matched",
+  "Confirm": "Confirm",
+  "Email": "Email",
+  "Send me a copy of this message": "Send me a copy of this message"
 }
