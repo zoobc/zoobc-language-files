@@ -149,7 +149,7 @@
   "Alias is required": "Alias harus diisi",
   "Address is required": "Alamat harus diisi",
   "Are you sure want to delete?": "Anda yakin ingin menghapus '{{alias}}'?",
-  "Feedback": "Umpan balik",
+  "Feedback": "Kritik & Saran",
   "Email is required": "Email harus diisi",
   "Incorrect email format": "Format email salah",
   "Subject": "Subyek",
@@ -195,5 +195,14 @@
   "Welcome": "Selamat Datang",
   "Send & Request": "Kirim & Permintaan",
   "Request Money": "Permintaan Koin",
-  "Time": "Waktu"
+  "Time": "Waktu",
+  "Deposit": "Deposit",
+  "Restore another wallet": "Pulihkan dompet lainnya",
+  "Create Wallet": "Buat Dompet",
+  "Confirm Your Passphrase": "Konfirmasi Passphrase Anda",
+  "Please fill all of the passphrase": "Harap isi semua passphrase",
+  "The passphrase is not matched": "Passphrase tidak cocok",
+  "Confirm": "Konfirmasi",
+  "Email": "Email",
+  "Send me a copy of this message": "Kirimkan salinan pesan ini ke email saya"
 }
