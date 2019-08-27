@@ -21,6 +21,7 @@
   "Type": "Type",
   "Account": "Account",
   "Fee": "Fee",
+  "Fee is required": "Fee is required",
   "Receive Money": "Receive Money",
   "Receive": "Receive",
   "Transaction History": "Transaction History",
