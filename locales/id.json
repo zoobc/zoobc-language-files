@@ -21,7 +21,7 @@
   "Type": "Tipe",
   "Account": "Akun",
   "Fee": "Biaya",
-  "Fee is required":"Biaya harus diisi",
+  "Fee is required": "Biaya harus diisi",
   "Receive Money": "Terima Uang",
   "Transaction History": "Riwayat Transaksi",
   "Receive": "Minta",
@@ -204,5 +204,16 @@
   "The passphrase is not matched": "Passphrase tidak cocok",
   "Confirm": "Konfirmasi",
   "Email": "Email",
-  "Send me a copy of this message": "Kirimkan salinan pesan ini ke email saya"
+  "Send me a copy of this message": "Kirimkan salinan pesan ini ke email saya",
+  "Register Node": "Daftar Node",
+  "Update Node": "Memperbarui Node",
+  "Claim Node": "Klaim Node",
+  "Delete Node": "Hapus Node",
+  "Owner": "Pemilik",
+  "Owner is required": "Pemilik harus diisi",
+  "IP Address is required": "Alamat IP harus diisi",
+  "Locked Amount": "Nominal Mengendap",
+  "Locked Amount is required": "Nominal Penangguhan harus diisi",
+  "Node Public Key": "Node Public Key",
+  "Node Public Key is required": "Node Public Key harus diisi"
 }
