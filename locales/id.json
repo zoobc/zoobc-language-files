@@ -213,7 +213,7 @@
   "Owner is required": "Pemilik harus diisi",
   "IP Address is required": "Alamat IP harus diisi",
   "Locked Amount": "Nominal Mengendap",
-  "Locked Amount is required": "Nominal Penangguhan harus diisi",
+  "Locked Amount is required": "Nominal Mengendap harus diisi",
   "Node Public Key": "Node Public Key",
   "Node Public Key is required": "Node Public Key harus diisi"
 }
