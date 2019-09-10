@@ -213,5 +213,9 @@
   "Locked Amount": "Locked Amount",
   "Locked Amount is required": "Locked Amount is required",
   "Node Public Key": "Node Public Key",
-  "Node Public Key is required": "Node Public Key is required"
+  "Node Public Key is required": "Node Public Key is required",
+  "Address Book": "Address Book",
+  "No Address Available": "No Address Available",
+  "Open Wallet": "Open Wallet",
+  "Show this QR code to your friend to transfer money to your account": "Show this QR code to your friend to transfer money to your account"
 }
