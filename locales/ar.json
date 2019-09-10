@@ -204,5 +204,16 @@
   "The passphrase is not matched": "The passphrase is not matched",
   "Confirm": "Confirm",
   "Email": "Email",
-  "Send me a copy of this message": "Send me a copy of this message"
+  "Send me a copy of this message": "Send me a copy of this message",
+  "Register Node": "Register Node",
+  "Update Node": "Update Node",
+  "Claim Node": "Claim Node",
+  "Delete Node": "Delete Node",
+  "Owner": "Owner",
+  "Owner is required": "Owner is required",
+  "IP Address is required": "IP Address is required",
+  "Locked Amount": "Locked Amount",
+  "Locked Amount is required": "Locked Amount is required",
+  "Node Public Key": "Node Public Key",
+  "Node Public Key is required": "Node Public Key is required"
 }
