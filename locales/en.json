@@ -197,9 +197,11 @@
   "Request Money": "Request Money",
   "Time": "Time",
   "Deposit": "Deposit",
+  "Restore another wallet": "Restore another wallet",
   "Create Wallet": "Create Wallet",
   "Confirm Your Passphrase": "Confirm Your Passphrase",
   "Please fill all of the passphrase": "Please fill all of the passphrase",
+  "The passphrase is not matched": "The passphrase is not matched",
   "Confirm": "Confirm",
   "Email": "Email",
   "Send me a copy of this message": "Send me a copy of this message",
@@ -217,5 +219,7 @@
   "Address Book": "Address Book",
   "No Address Available": "No Address Available",
   "Open Wallet": "Open Wallet",
-  "Show this QR code to your friend to transfer money to your account": "Show this QR code to your friend to transfer money to your account"
+  "Show this QR code to your friend to transfer money to your account": "Show this QR code to your friend to transfer money to your account",
+  "New Address": "New Address",
+  "Edit Address": "Edit Address"
 }
