@@ -370,5 +370,7 @@
   "Your Accounts": "Your Accounts",
   "Your balances are not enough for this transaction": "Your balances are not enough for this transaction",
   "Your Transaction is processing": "Your Transaction is processing",
-  "You send coins to this address": "You send <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) to this <b>{{recipient}}</b> address"
+  "You send coins to": "You send <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) to <b>{{recipient}}</b>",
+  "See the Node Admin Demo": "See the Node Admin Demo",
+  "Demo Screen": "Demo Screen"
 }
