@@ -377,5 +377,7 @@
   "Last Transaction": "Transaksi Terakhir",
   "Your balances are not enough for this transaction": "Saldo tidak cukup untuk melakukan transaksi",
   "Your Transaction is processing": "Transaksi sedang diproses",
-  "You send coins to this address": "Anda mengirim <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) ke alamat <b>{{recipient}}</b>"
+  "You send coins to": "Anda mengirim <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) ke alamat <b>{{recipient}}</b>",
+  "See the Node Admin Demo": "See the Node Admin Demo",
+  "Demo Screen": "Demo Screen"
 }
