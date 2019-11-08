@@ -379,5 +379,21 @@
   "Your Transaction is processing": "Transaksi sedang diproses",
   "You send coins to": "Anda mengirim <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) ke alamat <b>{{recipient}}</b>",
   "See the Node Admin Demo": "See the Node Admin Demo",
-  "Demo Screen": "Demo Screen"
+  "Demo Screen": "Demo Screen",
+  "Connect Hardware Wallet": "Hubungkan Dompet Peranti Keras",
+  "My Task": "Tugas Saya",
+  "Coming Soon": "Segera akan Datang",
+  "Commission Fee": "Biaya komisi",
+  "Instruction": "Instruksi",
+  "Instruction is required": "Instruksi Dibutuhkan",
+  "Advanced Menu": "Menu Lanjutan",
+  "Approver Address": "Alamat Persetujuan",
+  "Address for Approver is required": "Alamat Persetujuan Diperlukan",
+  "Approver Commission": "Komisi Penerima",
+  "Commission for approver is required": "Komisi untuk penerima diperlukan",
+  "Minimum commission is": "Minimum jumlah komisi harus {{val}}",
+  "Minimum Commission for approver in ZBC must be ZBC": "Komisi minimum untuk pemberi persetujuan dalam ZBC harus {{val}} ZBC",
+  "Timeout": "Batas Waktu",
+  "Timeout is required": "Batas Waktu Diperlukan",
+  "Transaction has been approved": "Transaksi telah disetujui"
 }
