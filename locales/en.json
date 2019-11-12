@@ -372,5 +372,21 @@
   "Your Transaction is processing": "Your Transaction is processing",
   "You send coins to": "You send <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) to <b>{{recipient}}</b>",
   "See the Node Admin Demo": "See the Node Admin Demo",
-  "Demo Screen": "Demo Screen"
+  "Demo Screen": "Demo Screen",
+  "Connect Hardware Wallet": "Connect Hardware Wallet",
+  "My Task": "My Task",
+  "Coming Soon": "Coming Soon",
+  "Commission Fee": "Commission Fee",
+  "Instruction": "Instruction",
+  "Instruction is required": "Instruction is required",
+  "Advanced": "Advanced",
+  "Approver Address": "Approver Address",
+  "Address for Approver is required": "Address for Approver is required",
+  "Approver Commission": "Approver Comission",
+  "Commission for approver is required": "Commission for approver is required",
+  "Minimum commission is": "Minimum commission is {{val}}",
+  "Minimum Commission for approver in ZBC must be ZBC": "Minimum Commission for approver in ZBC must be {{val}} ZBC",
+  "Timeout": "Timeout",
+  "Timeout is required": "Timeout is required",
+  "Transaction has been approved": "Transaction has been approved"
 }
