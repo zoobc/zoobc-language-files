@@ -395,5 +395,8 @@
   "Minimum Commission for approver in ZBC must be ZBC": "Komisi minimum untuk pemberi persetujuan dalam ZBC harus {{val}} ZBC",
   "Timeout": "Batas Waktu",
   "Timeout is required": "Batas Waktu Diperlukan",
-  "Transaction has been approved": "Transaksi telah disetujui"
+  "Transaction has been approved": "Transaksi telah disetujui",
+  "Name": "Nama",
+  "Name is required": "Name harus diisi",
+  "Add Attachment": "Tambahkan Lampiran"
 }

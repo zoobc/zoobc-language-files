@@ -395,5 +395,8 @@
   "Minimum Commission for approver in ZBC must be ZBC": "Minimum Commission for approver in ZBC must be {{val}} ZBC",
   "Timeout": "Timeout",
   "Timeout is required": "Timeout is required",
-  "Transaction has been approved": "Transaction has been approved"
+  "Transaction has been approved": "Transaction has been approved",
+  "Name": "Name",
+  "Name is required": "Name is required",
+  "Add Attachment": "Add Attachment"
 }
