@@ -433,5 +433,7 @@
   "Block Count": "Jumlah Blok",
   "Transaction Amount": "Jumlah Transaksi",
   "Roadmap": "Peta jalan",
-  "Fill The Missing Phrase Word to Complete Create New Wallet!": "Isi Kata Frasa yang Hilang untuk Membuat Dompet Baru!"
+  "Fill The Missing Phrase Word to Complete Create New Wallet!": "Isi Kata Frasa yang Hilang untuk Membuat Dompet Baru!",
+  "Name is required": "Name harus diisi",
+  "New locked balance cannot be smaller than current locked balance": "Saldo mengendap yang baru tidak boleh lebih kecil daripada saldo mengendap yang sekarang"
 }

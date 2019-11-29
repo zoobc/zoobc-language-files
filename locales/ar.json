@@ -433,5 +433,7 @@
   "Block Count": "كتلة العد",
   "Transaction Amount": "قيمة التحويل",
   "Roadmap": "خريطة الطريق",
-  "Isi Kata Frasa yang Hilang untuk Menyelesaikan Membuat Dompet Baru!": "ملء كلمة العبارة المفقودة لإكمال إنشاء محفظة جديدة!"
+  "Isi Kata Frasa yang Hilang untuk Menyelesaikan Membuat Dompet Baru!": "ملء كلمة العبارة المفقودة لإكمال إنشاء محفظة جديدة!",
+  "Name is required": "Name is required",
+  "New locked balance cannot be smaller than current locked balance": "New locked balance cannot be smaller than current locked balance"
 }
