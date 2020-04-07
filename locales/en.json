@@ -39,7 +39,7 @@
   "Pin invalid": "Pin invalid",
   "Remember: Never tell your passphrase. If you lose it, you lose access to your account!": "<b>Remember:</b> Never tell your passphrase. If you lose it, you lose access to your account!",
   "I have written or saved my passphrase safely": "I have written or saved my passphrase safely",
-  "I Approve Terms & Conditions": "I Approve Terms & Conditions",
+  "I Approve Terms Of Use & Privacy Policy": "I Approve <a href='/info/terms-of-use' target='_blank'>Terms of Use</a> & <a href='/info/privacy-policy' target='_blank'>Privacy Policy</a>",
   "Set Your Pin": "Set Your Pin",
   "Show All Notifications": "Show All Notifications",
   "Read More": "Read More",
