@@ -39,7 +39,7 @@
   "Pin invalid": "Pin salah",
   "Remember: Never tell your passphrase. If you lose it, you lose access to your account!": "<b>Perhatikan:</b> Jangan pernah memberitahu passphrase Anda. Jika Anda kehilangan itu, Anda kehilangan akses ke akun Anda!",
   "I have written or saved my passphrase safely": "Saya telah menulis atau menyimpan passphrase saya dengan aman",
-  "I Approve Terms & Conditions": "Saya Menyetujui Syarat & Ketentuan",
+  "I Approve Terms Of Use & Privacy Policy": "Saya menyetujui <a href='/info/terms-of-use' target='_blank'>Ketentuan Penggunaan</a> & <a href='/info/privacy-policy' target='_blank'>Kebijakan Privasi</a>",
   "Set Your Pin": "Tentukan Pin Anda",
   "Show All Notifications": "Tampilkan Semua Pemberitahuan",
   "Read More": "Tampilkan Lebih",
