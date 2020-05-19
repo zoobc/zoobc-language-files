@@ -443,5 +443,9 @@
   "Roadmap": "خريطة الطريق",
   "Isi Kata Frasa yang Hilang untuk Menyelesaikan Membuat Dompet Baru!": "ملء كلمة العبارة المفقودة لإكمال إنشاء محفظة جديدة!",
   "Name is required": "مطلوب اسم ",
-  "New locked balance cannot be smaller than current locked balance": "لا يمكن أن يكون الرصيد المقفل الجديد أصغر من الرصيد المقفل الحالي "
+  "New locked balance cannot be smaller than current locked balance": "لا يمكن أن يكون الرصيد المقفل الجديد أصغر من الرصيد المقفل الحالي ",
+  "ZooBC Core": "ZooBC Core",
+  "ZooBC Wallet": "ZooBC Wallet",
+  "ZooBC Explorer": "ZooBC Explorer",
+  "Whitepaper": "تقرير رسمي"
 }
