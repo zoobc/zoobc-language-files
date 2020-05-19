@@ -443,5 +443,9 @@
   "Roadmap": "Roadmap",
   "Fill The Missing Phrase Word to Complete Create New Wallet!": "Fill The Missing Phrase Word to Complete Create New Wallet!",
   "Name is required": "Name is required",
-  "New locked balance cannot be smaller than current locked balance": "New locked balance cannot be smaller than current locked balance"
+  "New locked balance cannot be smaller than current locked balance": "New locked balance cannot be smaller than current locked balance",
+  "ZooBC Core": "ZooBC Core",
+  "ZooBC Wallet": "ZooBC Wallet",
+  "ZooBC Explorer": "ZooBC Explorer",
+  "Whitepaper": "Whitepaper"
 }
