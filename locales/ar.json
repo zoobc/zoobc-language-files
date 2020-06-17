@@ -532,5 +532,15 @@
   "Are you sure want to generate new node public key?": "هل تريد بالتأكيد إنشاء مفتاح عمومي جديد للعقدة؟",
   "You need to update your node registration or your node will stop smithing": "تحتاج إلى تحديث تسجيل العقدة الخاصة بك وإلا ستتوقف العقدة عن الحد",
   "Your old wallet will be removed from this device": "ستتم إزالة محفظتك القديمة من هذا الجهاز",
-  "Just now": "في هذة اللحظة"
+  "Just now": "في هذة اللحظة",
+  "Summary Approval Escrow": "الضمان الموافقة على ملخص",
+  "Approver": "موافق",
+  "Multi Signature Info": "معلومات التوقيع المتعدد",
+  "Signature 1": "التوقيع ١",
+  "Signature 2": "التوقيع ٢",
+  "Signature 3": "التوقيع ٣",
+  "Signature 4": "التوقيع ٤",
+  "Signature 5": "التوقيع ٥",
+  "Multisig Address": "عنوان متعدد التوقيع",
+  "Unsigned Transaction Bytes": "بايت المعاملات غير الموقعة"
 }
