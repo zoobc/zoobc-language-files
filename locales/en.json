@@ -532,5 +532,15 @@
   "Are you sure want to generate new node public key?": "Are you sure want to generate new node public key?",
   "You need to update your node registration or your node will stop smithing": "You need to update your node registration or your node will stop smithing",
   "Your old wallet will be removed from this device": "Your old wallet will be removed from this device",
-  "Just now": "Just now"
+  "Just now": "Just now",
+  "Summary Approval Escrow": "Summary Approval Escrow",
+  "Approver": "Approver",
+  "Multi Signature Info": "Multi Signature Info",
+  "Signature 1": "Signature 1",
+  "Signature 2": "Signature 2",
+  "Signature 3": "Signature 3",
+  "Signature 4": "Signature 4",
+  "Signature 5": "Signature 5",
+  "Multisig Address": "Multisig Address",
+  "Unsigned Transaction Bytes": "Unsigned Transaction Bytes"
 }

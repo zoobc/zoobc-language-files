@@ -532,5 +532,15 @@
   "Are you sure want to generate new node public key?": "Apakah Anda yakin ingin membuat kunci publik node yang baru?",
   "You need to update your node registration or your node will stop smithing": "Anda perlu memperbarui pendaftaran node Anda atau node Anda akan berhenti smithing",
   "Your old wallet will be removed from this device": "Dompet lama Anda akan dihapus dari perangkat ini",
-  "Just now": "Baru saja"
+  "Just now": "Baru saja",
+  "Summary Approval Escrow": "Ringkasan Persetujuan Escrow",
+  "Approver": "Persetujuan",
+  "Multi Signature Info": "Info Multi Signature",
+  "Signature 1": "Tanda tangan 1",
+  "Signature 2": "Tanda tangan 2",
+  "Signature 3": "Tanda tangan 3",
+  "Signature 4": "Tanda tangan 4",
+  "Signature 5": "Tanda tangan 5",
+  "Multisig Address": "Alamat Multisig",
+  "Unsigned Transaction Bytes": "Bytes Transaksi yang Tidak Ditandatangani"
 }
