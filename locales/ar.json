@@ -34,6 +34,7 @@
   "name": "اسم",
   "email": "البريد الإلكتروني",
   "message": "رسالة",
+  "last refresh": "التحديث الأخير",
 
   "=============== EXPLORER UI ===============": "=============== EXPLORER UI ===============",
 
@@ -54,6 +55,7 @@
   "latest block count in 30 days": "أحدث كتلة العد في ٣٠ يوما",
   "latest transaction amount in 30 days": "آخر مبلغ المعاملات في ٣٠ يوما",
   "block count": "كتلة العد",
+  "transaction amount": "قيمة التحويل",
   "node registration": "تسجيل العقدة",
   "registered": "المسجل",
   "pending": "قيد الانتظار",
@@ -141,6 +143,9 @@
   "sorry, we couldn't find any results for this search": "نأسف ، تعذر علينا العثور على أي نتائج لهذا البحث",
   "refresh page": "إعادة تحميل الصفحة",
   "sentiment": "عاطفة",
+  "positive": "إيجابي",
+  "negative": "سلبي",
+  "neutral": "محايد",
   "rate": "معدل",
   "submit": "خضع",
   "input your name": "أدخل اسمك",
@@ -153,7 +158,6 @@
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
-  "last refresh": "التحديث الأخير",
   "approval history": "تاريخ الموافقة",
   "multisignature approval history": "تاريخ الموافقة على التوقيع المتعدد",
   "escrow approval history": "تاريخ الموافقة على الضمان",
