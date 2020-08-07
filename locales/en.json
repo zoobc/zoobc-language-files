@@ -34,6 +34,7 @@
   "name": "Name",
   "email": "Email",
   "message": "Message",
+  "last refresh": "Last Refresh",
 
   "=============== EXPLORER UI ===============": "=============== EXPLORER UI ===============",
 
@@ -54,6 +55,7 @@
   "latest block count in 30 days": "Latest Block Count in 30 Days",
   "latest transaction amount in 30 days": "Latest Transaction Amount in 30 Days",
   "block count": "Block Count",
+  "transaction amount": "Transaction Amount",
   "node registration": "Node Registration",
   "registered": "Registered",
   "pending": "Pending",
@@ -77,7 +79,7 @@
   "rewards": "Rewards",
   "last active": "Last Active",
   "all": "All",
-  "in Queue": "In Queue",
+  "in queue": "In Queue",
   "stray": "Stray",
   "public key": "Public Key",
   "owner address": "Owner Address",
@@ -141,6 +143,9 @@
   "sorry, we couldn't find any results for this search": "Sorry, we couldn't find any results for this search",
   "refresh page": "Refresh page",
   "sentiment": "Sentiment",
+  "positive": "positive",
+  "negative": "negative",
+  "neutral": "neutral",
   "rate": "Rate",
   "submit": "SUBMIT",
   "input your name": "Input your name",
@@ -153,7 +158,6 @@
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
-  "last refresh": "Last Refresh",
   "approval history": "Approval History",
   "multisignature approval history": "Multisignature Approval History",
   "escrow approval history": "Escrow Approval History",

@@ -34,6 +34,7 @@
   "name": "Nama",
   "email": "Email",
   "message": "Pesan",
+  "last refresh": "Terakhir Muat Ulang",
 
   "=============== EXPLORER UI ===============": "=============== EXPLORER UI ===============",
 
@@ -54,6 +55,7 @@
   "latest block count in 30 days": "Hitungan Blok Terbaru dalam 30 Hari",
   "latest transaction amount in 30 days": "Jumlah Transaksi Terbaru dalam 30 Hari",
   "block count": "Jumlah Blok",
+  "transaction amount": "Jumlah Transaksi",
   "node registration": "Registrasi Node",
   "registered": "Terdaftar",
   "pending": "Tertunda",
@@ -63,7 +65,7 @@
   "company": "Perusahaan",
   "team": "Tim",
   "blog": "Blog",
-  "about Us": "Tentang Kami",
+  "about us": "Tentang Kami",
   "press & media": "Press & Media",
   "contact us": "Hubungi Kami",
   "zoobc white paper": "Zoobc White Paper",
@@ -141,6 +143,9 @@
   "sorry, we couldn't find any results for this search": "Maaf, kami tidak dapat menemukan hasil apa pun untuk pencarian ini",
   "refresh page": "Muat Ulang Halaman",
   "sentiment": "Sentimen",
+  "positive": "positif",
+  "negative": "negatif",
+  "neutral": "netral",
   "rate": "Penilaian",
   "submit": "MENYAMPAIKAN",
   "input your name": "Masukkan nama Anda",
@@ -153,7 +158,6 @@
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
-  "last refresh": "Terakhir Muat Ulang",
   "approval history": "Riwayat Persetujuan",
   "multisignature approval history": "Riwayat Persetujuan Multisignature",
   "escrow approval history": "Riwayat Persetujuan Escrow ",
