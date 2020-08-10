@@ -459,6 +459,9 @@
   "transaction history": "Transaction History",
   "escrow approval": "Escrow Approval",
   "your node will be updated soon": "Your node will be updated soon",
+
+  "=============== WALLET MOBILE ===============": "=============== WALLET MOBILE ===============",
+
   "about this wallet": "About this wallet",
   "address is not valid": "Address is not valid",
   "advanced": "Advanced",
@@ -517,7 +520,6 @@
   "setup pin": "Setup pin",
   "setup your pin": "Setup your pina", 
   "show this qrcode to your friend to transfer zoobc coin to your account" : "Show this qrcode to your friend to transfer zoobc coin to your account",
-  "submit" : "Submit",
   "tap list to switch account": "Tap list to switch account",
   "this keeps your account secure, and lets you open your wallet on multiple devices. it's very important you write this down.": "This keeps your account secure, and lets you open your wallet on multiple devices. it's very important you write this down.",
   "theme": "Theme",
