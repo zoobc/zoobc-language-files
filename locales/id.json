@@ -465,7 +465,7 @@
   "escrow approval": "Persetujuan Escrow",
   "your node will be updated soon": "Node Anda akan segera diperbarui",
 
-  "=============== WALLET MOBILE UI ===============": "=============== WALLET MOBILE UI ===============",
+  "=============== WALLET MOBILE ===============": "=============== WALLET MOBILE ===============",
 
   "about this wallet": "Tentang dompet ini",
   "address is not valid": "Alamat tidak valid",
@@ -504,7 +504,7 @@
   "list of account": "Daftar akun", 
   "list of languages": "Daftar bahasa",
   "log out": "Keluar", 
-  "log In": "Masuk",
+  "log in": "Masuk",
   "login to backup service": "Masuk untuk layanan cadangan",
   "refreshing": "Memuat ulang",
   "other zoobc cool apps" : "Aplikasi keren zoobc lainnya",
