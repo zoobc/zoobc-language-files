@@ -155,6 +155,18 @@
   "please input your name!": "Please input your name!",
   "please input your email!": "Please input your email!",
   "please input your message!": "Please input your message!",
+  "a string of letters and numbers that are used to receive amount of zoobc. works similar to a traditional bank account number and can be shared publicly with others": "A string of letters and numbers that are used to receive amount of ZooBC. Works similar to a traditional bank account number and can be shared publicly with others",
+  "an identifier which facilitates easy identification of blocks on the zoobc blockchain": "An identifier which facilitates easy identification of blocks of the blockchain",
+  "an identifier which facilitates easy identification of transactions on the zoobc blockchain": "An identifier which failitates easy identification of transactions on the ZooBC blockchain",
+  "the position of the block in the zoobc blockchain. for example, height 0, would be the very first block, which is also called the genesis block": "The position of the block in the ZooBC blockchain. For example, Height 0, would be the very first block, which is also called the Genesis Block",
+  "amount of zoobc to be locked as security money for node": "Amount of ZooBC to be locked as security money for node",
+  "account that generated the block": "Account that generated the block",
+  "the block height in which the transaction is included": "The block height in which the transaction is included",
+  "sender node public key": "Sender Node Public Key",
+  "receiver node public key": "Receiver Node Public Key",
+  "a seed for random number uniquely generated for the block": "A seed for random number uniquely generated for the block",
+  "difficulty of the blockchain up to this current block": "Difficulty of the blockchain up to this current block",
+  "total coinbase + total fee": "Total Coinbase + Total Fee",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   

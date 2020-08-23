@@ -155,6 +155,18 @@
   "please input your name!": "Silakan masukkan nama Anda!",
   "please input your email!": "Silakan masukkan email Anda!",
   "please input your message!": "Silakan masukkan pesan Anda!",
+  "a string of letters and numbers that are used to receive amount of zoobc. works similar to a traditional bank account number and can be shared publicly with others": "Serangkaian huruf dan angka yang digunakan untuk menerima jumlah ZooBC. Berfungsi mirip dengan nomor rekening bank tradisional dan dapat dibagikan secara publik dengan orang lain",
+  "an identifier which facilitates easy identification of blocks on the zoobc blockchain": "Pengidentifikasi yang memfasilitasi identifikasi blok blockchain dengan mudah",
+  "an identifier which facilitates easy identification of transactions on the zoobc blockchain": "Pengidentifikasi yang memfasilitasi identifikasi transaksi yang mudah di blockchain ZooBC",
+  "the position of the block in the zoobc blockchain. for example, height 0, would be the very first block, which is also called the genesis block": "Posisi blok di blockchain ZooBC. Misalnya, Tinggi 0, akan menjadi blok pertama, yang juga disebut Blok Genesis",
+  "amount of zoobc to be locked as security money for node": "Jumlah ZooBC yang akan dikunci sebagai uang keamanan untuk node",
+  "account that generated the block": "Akun yang menghasilkan blok",
+  "the block height in which the transaction is included": "Tinggi blok tempat transaksi disertakan",
+  "sender node public key": "Kunci Publik Node Pengirim",
+  "receiver node public key": "Kunci Publik Node Penerima",
+  "a seed for random number uniquely generated for the block": "Benih untuk nomor acak dibuat secara unik untuk blok tersebut",
+  "difficulty of the blockchain up to this current block": "Kesulitan blockchain hingga blok saat ini",
+  "total coinbase + total fee": "Total Coinbase + Biaya Total",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
