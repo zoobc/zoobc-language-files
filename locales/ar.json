@@ -155,6 +155,18 @@
   "please input your name!": "الرجاء إدخال اسمك",
   "please input your email!": "الرجاء إدخال البريد الإلكتروني الخاص بك",
   "please input your message!": "الرجاء إدخال رسالتك!",
+  "a string of letters and numbers that are used to receive amount of zoobc. works similar to a traditional bank account number and can be shared publicly with others": "سلسلة من الأحرف والأرقام المستخدمة لتلقي كمية من ZooBC. يعمل بشكل مشابه لرقم الحساب المصرفي التقليدي ويمكن مشاركته مع الآخرين بشكل عام",
+  "an identifier which facilitates easy identification of blocks on the zoobc blockchain": "معرف يسهل التعرف على كتل blockchain بسهولة",
+  "an identifier which facilitates easy identification of transactions on the zoobc blockchain": "معرّف يفشل في التعرف السهل على المعاملات على ZooBC blockchain",
+  "the position of the block in the zoobc blockchain. for example, height 0, would be the very first block, which is also called the genesis block": "موضع الكتلة في ZooBC blockchain. على سبيل المثال ، سيكون الارتفاع 0 هو أول كتلة ، والتي تسمى أيضًا كتلة التكوين",
+  "amount of zoobc to be locked as security money for node": "مبلغ ZooBC المراد قفله كأموال أمان للعقدة",
+  "account that generated the block": "الحساب الذي أنشأ الكتلة",
+  "the block height in which the transaction is included": "ارتفاع الكتلة الذي يتم تضمين المعاملة فيه",
+  "sender node public key": "المفتاح العام لعقدة المرسل",
+  "receiver node public key": "المفتاح العام لعقدة جهاز الاستقبال",
+  "a seed for random number uniquely generated for the block": "بذرة لعدد عشوائي تم إنشاؤها بشكل فريد للكتلة",
+  "difficulty of the blockchain up to this current block": "صعوبة blockchain حتى هذه الكتلة الحالية",
+  "total coinbase + total fee": "إجمالي Coinbase + إجمالي الرسوم",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
