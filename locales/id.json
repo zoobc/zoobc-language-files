@@ -167,6 +167,8 @@
   "a seed for random number uniquely generated for the block": "Benih untuk nomor acak dibuat secara unik untuk blok tersebut",
   "difficulty of the blockchain up to this current block": "Kesulitan blockchain hingga blok saat ini",
   "total coinbase + total fee": "Total Coinbase + Biaya Total",
+  "trx": "Transaksi",
+  "blocksmith": "Pembuat Block",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
