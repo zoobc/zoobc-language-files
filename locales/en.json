@@ -167,6 +167,8 @@
   "a seed for random number uniquely generated for the block": "A seed for random number uniquely generated for the block",
   "difficulty of the blockchain up to this current block": "Difficulty of the blockchain up to this current block",
   "total coinbase + total fee": "Total Coinbase + Total Fee",
+  "trx": "trx",
+  "blocksmith": "blocksmith",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   

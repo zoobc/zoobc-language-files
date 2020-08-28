@@ -167,6 +167,8 @@
   "a seed for random number uniquely generated for the block": "بذرة لعدد عشوائي تم إنشاؤها بشكل فريد للكتلة",
   "difficulty of the blockchain up to this current block": "صعوبة blockchain حتى هذه الكتلة الحالية",
   "total coinbase + total fee": "إجمالي Coinbase + إجمالي الرسوم",
+  "trx": "عملية تجارية",
+  "blocksmith": "بلوكسميث",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
   
