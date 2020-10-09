@@ -394,7 +394,7 @@
   "approver commission": "لجنة الموافقة",
   "total": "مجموع",
   "your transaction is processing": "تتم معالجة المعاملة الخاصة بك",
-  "you send coins to": " انت ارسل <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) إلى <b>{{recipient}}</b>",
+  "you send coins to": " انت ارسل <b>{{amount}}</b> ZBC  إلى <b>{{recipient}}</b>",
   "please select what properties you need to create multisignature transaction": "يرجى تحديد الخصائص التي تحتاجها لإنشاء معاملة متعددة التوقيع",
   "add participants signature": "أضف توقيع المشاركين",
   "multisignature drafts": "مسودات متعددة التوقيع",

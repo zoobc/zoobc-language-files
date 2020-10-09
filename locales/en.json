@@ -394,7 +394,7 @@
   "approver commission": "Approver Comission",
   "total": "Total",
   "your transaction is processing": "Your Transaction is processing",
-  "you send coins to": "You send <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) to <b>{{recipient}}</b>",
+  "you send coins to": "You send <b>{{amount}}</b> ZBC to <b>{{recipient}}</b>",
   "please select what properties you need to create multisignature transaction": "Please select what properties you need to create multisignature transaction",
   "add participants signature": "Add participants signature",
   "multisignature drafts": "Multisignature Drafts",
