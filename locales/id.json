@@ -394,7 +394,7 @@
   "approver commission": "Komisi Penerima",
   "total": "Total",
   "your transaction is processing": "Transaksi Anda sedang diproses",
-  "you send coins to": "Kamu mengirim <b>{{amount}}</b> ZBC ({{currencyValue}} {{currencyName}}) ke <b>{{recipient}}</b>",
+  "you send coins to": "Kamu mengirim <b>{{amount}}</b> ZBC ke <b>{{recipient}}</b>",
   "please select what properties you need to create multisignature transaction": "Silakan pilih properti apa yang Anda butuhkan untuk membuat transaksi multisignature",
   "add participants signature": "Tambah Tandatangan Peserta",
   "multisignature drafts": "Draf Multisignature",
