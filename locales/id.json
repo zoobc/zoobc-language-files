@@ -596,5 +596,16 @@
   "for your security, blockchain does not keep any passwords on file. the following 24 word backup phrase will give you access to your funds in case you lose your password. be sure to write it on a piece of paper and to keep it somewhere safe and secure.": "Demi keamanan Anda, Blockchain tidak menyimpan kata sandi apa pun. Frase Cadangan 24 kata berikut akan memberi Anda akses ke dana Anda jika Anda kehilangan kata sandi Anda. Pastikan untuk menuliskannya di selembar kertas dan untuk Pertahankan di suatu tempat yang aman dan terjamin.",
   "no account selected": "Tidak Ada Akun yang Dipilih",
   "no account yet": "Belum punya akun",
-  "no escrow approval request available": "Tidak ada persetujuan permintaan Escrow"
+  "no escrow approval request available": "Tidak ada persetujuan permintaan Escrow",
+  "spendable": "Saldo",
+  "see all": "Lihat Semua",
+  "security": "Keamanan",
+  "app": "Aplikasi",
+  "currency": "Mata Uang",
+  "seed phrase": "Seed Phrase",
+  "please type your name": "Silahkan ketik nama anda",
+  "please type your email": "Silahkan ketik email anda",
+  "please write some comment": "Silahkan tulis komentar",
+  "home": "Beranda",
+  "tasks": "Tugas"
 }

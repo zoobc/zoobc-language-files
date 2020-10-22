@@ -596,5 +596,16 @@
   "for your security, blockchain does not keep any passwords on file. the following 24 word backup phrase will give you access to your funds in case you lose your password. be sure to write it on a piece of paper and to keep it somewhere safe and secure.": "من أجل أمانك ، لا تحتفظ blockchain بأي كلمات مرور في الملف. ستتيح لك العبارة الاحتياطية المكونة من 24 كلمة التالية الوصول إلى أموالك في حالة فقد كلمة المرور الخاصة بك. تأكد من كتابتها على قطعة من الورق والاحتفاظ بها في مكان آمن وآمن.",
   "no account selected": "لم يتم اختيار أي حساب",
   "no account yet": "لا يوجد حساب بعد",
-  "no escrow approval request available": "لا يتوفر طلب موافقة الضمان"
+  "no escrow approval request available": "لا يتوفر طلب موافقة الضمان",
+  "spendable": "Spendable",
+  "see all": "See All",
+  "security": "Security",
+  "app": "App",
+  "currency": "Currency",
+  "seed phrase": "Seed Phrase",
+  "please type your name": "Please type your name",
+  "please type your email": "Please type your email",
+  "please write some comment": "Please write some comment",
+  "home": "Home",
+  "tasks": "Tasks"
 }
