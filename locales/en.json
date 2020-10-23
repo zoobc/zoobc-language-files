@@ -596,5 +596,16 @@
   "for your security, blockchain does not keep any passwords on file. the following 24 word backup phrase will give you access to your funds in case you lose your password. be sure to write it on a piece of paper and to keep it somewhere safe and secure.": "For your security, blockchain does not keep any passwords on file. the following 24 word backup phrase will give you access to your funds in case you lose your password. be sure to write it on a piece of paper and to keep it somewhere safe and secure.",
   "no account selected": "No account selected",
   "no account yet": "No account yet",
-  "no escrow approval request available": "No escrow approval request available"
+  "no escrow approval request available": "No escrow approval request available",
+  "spendable": "Spendable",
+  "see all": "See All",
+  "security": "Security",
+  "app": "App",
+  "currency": "Currency",
+  "seed phrase": "Seed Phrase",
+  "please type your name": "Please type your name",
+  "please type your email": "Please type your email",
+  "please write some comment": "Please write some comment",
+  "home": "Home",
+  "tasks": "Tasks"
 }
