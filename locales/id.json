@@ -607,5 +607,17 @@
   "please type your email": "Silahkan ketik email anda",
   "please write some comment": "Silahkan tulis komentar",
   "home": "Beranda",
-  "tasks": "Tugas"
+  "tasks": "Tugas",
+  "protect your funds!": "Lindungi dana anda!",
+  "in case you lose access to your device you can only re-gain access to the wallet with your seed phrase.": "Jika Anda kehilangan akses ke perangkat Anda, Anda hanya dapat memperoleh kembali akses ke dompet dengan <strong>seed phrase</strong> Anda.",
+  "no backups. no password reset.": "Tidak ada pencadangan. Tidak ada pengaturan ulang kata sandi.",
+  "i understand": "Saya mengerti",
+  "what's a seed phrase?": "Apa itu seed phrase?",
+  "seed phrase is a private key to your wallet and its funds. it consists of 24 randomly generated words.": "Seed phrase adalah kunci pribadi untuk dompet Anda dan dananya. itu terdiri dari 24 kata yang dihasilkan secara acak.",
+  "write down your seed phrase and store it safely.": "Tuliskan seed phrase Anda dan simpan dengan aman.",
+  "don't share your seed phrase with anyone.": "Jangan bagikan seed phrase Anda dengan siapa pun.",
+  "i agree terms & conditions": "Saya menyetujui syarat dan ketentuan",
+  "please enter the following words from your seed phrase to ensure you got it right": "Masukkan kata-kata berikut dari seed phrase awal Anda untuk memastikan Anda melakukannya dengan benar",
+  "word #" : "Kata # {{value}}",
+  "enter word #" : "Masukan kata # {{value}}"
 }
