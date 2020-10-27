@@ -607,6 +607,7 @@
   "please write some comment": "الرجاء كتابة تعليق",
   "home": "الصفحة الرئيسية",
   "tasks": "مهام",
+<<<<<<< Updated upstream
   "protect your funds!": "Protect your funds!",
   "in case you lose access to your device you can only re-gain access to the wallet with your seed phrase.": "In case you lose access to your device you can only re-gain access to the wallet with your <strong>seed phrase</strong>.",
   "no backups. no password reset.": "No backups. No password reset.",
@@ -636,4 +637,35 @@
   "restore wallet": "Restore Wallet",
   "reset": "Reset",
   "copy your 24 words seed phrase and paste here, it will fill in all input field": "Copy your 24 words seed phrase and paste here, it will fill in all input field"
+=======
+  "protect your funds!": "حماية أموالك!",
+  "in case you lose access to your device you can only re-gain access to the wallet with your seed phrase.": "في حالة فقد الوصول إلى جهازك ، يمكنك فقط إعادة الوصول إلى محفظتك باستخدام <strong>عبارة البذور</strong>.",
+  "no backups. no password reset.": "لا توجد نسخ احتياطية. لا إعادة تعيين كلمة المرور.",
+  "i understand": "اني اتفهم",
+  "what's a seed phrase?": "ما هي عبارة البذور؟",
+  "seed phrase is a private key to your wallet and its funds. it consists of 24 randomly generated words.": "عبارة البذور هي مفتاح خاص لمحفظتك وأموالها. يتكون من ٢٤ كلمة تم إنشاؤها عشوائيًا.",
+  "write down your seed phrase and store it safely.": "اكتب عبارة البذور الخاصة بك وقم بتخزينها بأمان.",
+  "don't share your seed phrase with anyone.": "لا تشارك عبارة البذور الخاصة بك مع أي شخص.",
+  "i agree terms & conditions": "أوافق على الشروط والأحكام",
+  "please enter the following words from your seed phrase to ensure you got it right": "الرجاء إدخال الكلمات التالية من العبارة الأولية للتأكد من أنك حصلت عليها بشكل صحيح",
+  "word #" : "كلمة # {{value}}",
+  "enter word #" : "أدخل كلمة # {{value}}",
+  "manage accounts": "إدارة الحسابات",
+  "import account": "حساب الاستيراد",
+  "copy address": "نسخ العنوان",
+  "name cannot be empty": "لا يمكن أن يكون الاسم فارغًا",
+  "address cannot be empty": "لا يمكن أن يكون العنوان فارغًا",
+  "read more": "قراءة المزيد",
+  "buy and sell zoobc coins directly via the zoobc app.": "قم ببيع وشراء عملات ZooBC مباشرة عبر تطبيق ZooBC.",
+  "another zoobc app": "تطبيق ZooBC آخر",
+  "do and do this and that with our new another zoobc app.": "افعل وافعل هذا وذاك مع تطبيق ZooBC الجديد.",
+  "send to": "ارسل إلى",
+  "my accounts": "حساباتي",
+  "new address": "عنوان جديد",
+  "enter instruction": "أدخل التعليمات",
+  "enter timeout": "أدخل المهلة",
+  "restore wallet": "استعادة المحفظة",
+  "reset": "إعادة تعيين",
+  "copy your 24 words seed phrase and paste here, it will fill in all input field": "انسخ عبارة أولية مكونة من ٢٤ كلمة والصقه هنا ، سوف تملأ جميع حقول الإدخال"
+>>>>>>> Stashed changes
 }
