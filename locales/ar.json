@@ -607,37 +607,6 @@
   "please write some comment": "الرجاء كتابة تعليق",
   "home": "الصفحة الرئيسية",
   "tasks": "مهام",
-<<<<<<< Updated upstream
-  "protect your funds!": "Protect your funds!",
-  "in case you lose access to your device you can only re-gain access to the wallet with your seed phrase.": "In case you lose access to your device you can only re-gain access to the wallet with your <strong>seed phrase</strong>.",
-  "no backups. no password reset.": "No backups. No password reset.",
-  "i understand": "I understand",
-  "what's a seed phrase?": "What's a seed phrase?",
-  "seed phrase is a private key to your wallet and its funds. it consists of 24 randomly generated words.": "Seed phrase is a private key to your wallet and its funds. it consists of 24 randomly generated words.",
-  "write down your seed phrase and store it safely.": "Write down your seed phrase and store it safely.",
-  "don't share your seed phrase with anyone.": "Don't share your seed phrase with anyone.",
-  "i agree terms & conditions": "i agree terms & conditions",
-  "please enter the following words from your seed phrase to ensure you got it right": "Please enter the following words from your seed phrase to ensure you got it right",
-  "word #" : "Word # {{value}}",
-  "enter word #" : "Enter word # {{value}}",
-  "manage accounts": "Manage Accounts",
-  "import account": "Import Account",
-  "copy address": "Copy Address",
-  "name cannot be empty": "Name cannot be empty",
-  "address cannot be empty": "Address cannot be empty",
-  "read more": "Read More",
-  "buy and sell zoobc coins directly via the zoobc app.": "Buy and sell ZooBC coins directly via the ZooBC app.",
-  "another zoobc app": "Another ZooBC app",
-  "do and do this and that with our new another zoobc app.": "Do and do this and that with our new another ZooBC app.",
-  "send to": "Send to",
-  "my accounts": "My Accounts",
-  "new address": "New Address",
-  "enter instruction": "Enter Instruction",
-  "enter timeout": "Enter Timeout",
-  "restore wallet": "Restore Wallet",
-  "reset": "Reset",
-  "copy your 24 words seed phrase and paste here, it will fill in all input field": "Copy your 24 words seed phrase and paste here, it will fill in all input field"
-=======
   "protect your funds!": "حماية أموالك!",
   "in case you lose access to your device you can only re-gain access to the wallet with your seed phrase.": "في حالة فقد الوصول إلى جهازك ، يمكنك فقط إعادة الوصول إلى محفظتك باستخدام <strong>عبارة البذور</strong>.",
   "no backups. no password reset.": "لا توجد نسخ احتياطية. لا إعادة تعيين كلمة المرور.",
@@ -667,5 +636,4 @@
   "restore wallet": "استعادة المحفظة",
   "reset": "إعادة تعيين",
   "copy your 24 words seed phrase and paste here, it will fill in all input field": "انسخ عبارة أولية مكونة من ٢٤ كلمة والصقه هنا ، سوف تملأ جميع حقول الإدخال"
->>>>>>> Stashed changes
 }
