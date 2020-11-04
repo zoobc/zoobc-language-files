@@ -635,5 +635,11 @@
   "enter timeout": "Masukan Timeout",
   "restore wallet": "Pulihkan Dompet",
   "reset": "Kosongkan",
-  "copy your 24 words seed phrase and paste here, it will fill in all input field": "Salin 24 kata seed phrase anda dan tempel di sini, semua kolom akan terisi otomatis"
+  "copy your 24 words seed phrase and paste here, it will fill in all input field": "Salin 24 kata seed phrase anda dan tempel di sini, semua kolom akan terisi otomatis",
+  "remove": "Hapus",
+  "view account": "Lihat Akun",
+  "delete account": "Hapus Akun",
+  "copy the text below to export or paste below to import contacts": "Salin teks di bawah ini atau tempel untuk mengimpor kontak",
+  "export/import": "Expor/Impor",
+  "please enter addresses in json format": "Masukan kontak dengan format json" 
 }
