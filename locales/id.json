@@ -507,6 +507,22 @@
   "offchain multi signature": "Offchain Multi Signature",
   "submit the information of multisignature transaction without any participants signatures and then each participant will signing approving the transaction on my task page": "Mengirimkan informasi dari transaksi multi signature tanpa tanda tangan dari partisipan, setelah itu setiap partisipan akan menandatangani transaksi tersebut di halaman tugas saya",
   "submit every information of multisignature transaction on one go, collecting the signatures by sending the transaction draft to each participants": "Mengirimkan setiap informasi dari multi signature dalam sekali jalan, mengumpulkan tanda tangan setiap partisipan dengan cara mengirimkan draf transaksi ke setiap partisipan",
+  "the easy way to spend and receive zoobc": "Cara mudah untuk menghabiskan dan menerima ZooBC",
+  "welcome to zoobc app": "Selamat datang di App ZooBC",
+  "please install zoobc connect": "Harap instal ZooBC Connect",
+  "zoobc transaction": "Transaksi ZooBC",
+  "liquid payment": "Pembayaran Cair",
+  "view more": "Lihat Lebih Banyak",
+  "create": "Membuat",
+  "sign": "Menandatangani",
+  "send multisignature": "Kirim Multisignature",
+  "online": "Daring",
+  "operating system": "Sistem Operasi",
+  "escrow": "Escrow",
+  "setting and data": "Pengaturan dan Data",
+  "reset data": "Setel Ulang Data",
+  "you will reset your setting and data. you will need to restore your recovery seed phrase. continue?": "Anda akan mengatur ulang pengaturan dan data Anda. Anda perlu memulihkan seed phrase pemulihan Anda. Lanjut?",
+  "i wrote it down": "Saya telah menulisnya",
 
   "=============== WALLET MOBILE ===============": "=============== WALLET MOBILE ===============",
 
@@ -641,5 +657,5 @@
   "delete account": "Hapus Akun",
   "copy the text below to export or paste below to import contacts": "Salin teks di bawah ini atau tempel untuk mengimpor kontak",
   "export/import": "Expor/Impor",
-  "please enter addresses in json format": "Masukan kontak dengan format json" 
+  "please enter addresses in json format": "Masukan kontak dengan format json"
 }
