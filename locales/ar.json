@@ -187,8 +187,17 @@
   "block": "كتلة",
   "blocksmith public key": " المفتاح العمومي صانع الكتلة",
   "sorry the page you are looking for is not found": "آسف الصفحة التي تبحث عنها غير موجودة",
-  "back to homepage": "العودة إلى الصفحة الرئيسية",
+  "homepage": "الصفحة الرئيسية",
   "no result found": "لم يتم العثور على نتائج",
+  "number of nodes which skipped their turn to create a block before this block was found": "عدد العقد التي تخطت دورها لإنشاء كتلة قبل العثور على هذه الكتلة",
+  "number of transaction": "عدد المعاملات",
+  "show detail": "أظهر تفاصيل",
+  "hide detail": "إخفاء التفاصيل",
+  "hey, you got lost!": "مهلا ، لقد ضاعت!",
+  "maybe you got the wrong street or address. try returning home or refreshing the page": "ربما حصلت على العنوان أو الشارع الخطأ. حاول العودة إلى المنزل أو تحديث الصفحة",
+  "omg, you found me here...": "يا إلهي ، لقد وجدتني هنا ...",
+  "ow… come on, i can’t be so serious if you not click ": "آه ... هيا ، لا يمكنني أن أكون جادًا إذا لم تنقر",
+  "here": "هنا",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
 
