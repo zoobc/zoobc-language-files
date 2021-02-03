@@ -187,8 +187,17 @@
   "block": "Blok",
   "blocksmith public key": "Kunci Publik Blocksmith",
   "sorry the page you are looking for is not found": "maaf halaman yang anda cari tidak ditemukan",
-  "back to homepage": "kembali ke beranda",
+  "homepage": "beranda",
   "no result found": "tidak ada hasil yang ditemukan",
+  "number of nodes which skipped their turn to create a block before this block was found": "Jumlah node yang melewatkan gilirannya untuk membuat blok sebelum blok ini ditemukan",
+  "number of transaction": "Jumlah Transaksi",
+  "show detail": "tunjukkan detail",
+  "hide detail": "sembunyikan detail",
+  "hey, you got lost!": "Hei, kamu tersesat!",
+  "maybe you got the wrong street or address. try returning home or refreshing the page": "Mungkin Anda salah jalan atau alamat. Coba kembali ke beranda atau segarkan halaman",
+  "omg, you found me here...": "omg, kamu menemukanku di sini ...",
+  "ow… come on, i can’t be so serious if you not click ": "Aduh… ayolah, saya tidak bisa terlalu serius jika Anda tidak mengklik ",
+  "here": "di sini",
 
   "=============== WALLET WEB ===============": "=============== WALLET WEB ===============",
 
